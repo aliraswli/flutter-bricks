@@ -1,3 +1,5 @@
+import 'package:flutter_bloc/flutter_bloc.dart';
+
 part '{{name.snakeCase()}}_cubit.freezed.dart';
 
 part '{{name.snakeCase()}}_state.dart';
